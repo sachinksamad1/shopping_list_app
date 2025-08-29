@@ -1,7 +1,7 @@
 # Flutter Shopping List App 🛒
 A simple and elegant shopping list application built with Flutter. This app allows users to browse a list of products fetched from a remote API, add items to their personal shopping list, and view the total cost. It serves as a great example for practicing basic data handling, state management, and API integration in Flutter.
 ## Screenshot
-![Screenshot1](Screenshot1_shopping_list_app.jpg)![Screenshot2](Screenshot2_shopping_list_app.jpg)
+![Screenshot1](Screenshot1_shopping_list_app.jpg)     ![Screenshot2](Screenshot2_shopping_list_app.jpg)
 
 ## ✨ Features 📷
 
