@@ -3,7 +3,7 @@ A simple and elegant shopping list application built with Flutter. This app allo
 ## Screenshot
 ![Screenshot1](Screenshot1_shopping_list_app.jpg)![Screenshot2](Screenshot2_shopping_list_app.jpg)
 
-## ✨ Features
+## ✨ Features 📷
 
   * Browse Products: Fetches and displays a list of products from the DummyJSON API.
 
